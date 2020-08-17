@@ -1,0 +1,1 @@
+### This project requires Composer to be istalled
