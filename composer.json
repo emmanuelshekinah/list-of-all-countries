@@ -1,0 +1,13 @@
+{
+    "name": "emmanuel/countries",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Emmanuel",
+            "email": "es.shekinah@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
